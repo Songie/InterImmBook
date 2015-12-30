@@ -74,7 +74,7 @@
 
 Unisat 的重要成员 **星际通信公司（Interplanetary Communications Company）** 也在火星表面和绕火轨道设立研究中心。
 
-.. figure:: http://www.space4case.inhetweb.nl/mmw/media/mars2005/vallesmarineris7500_20051014_18final1024.jpg
+.. figure:: ./resources/vallesmarineris-final.jpg
    :align: center
 
 
@@ -143,7 +143,7 @@ IIA 研发部下属的 PNPT 对推进技术的发展做出了巨大的贡献。�
 .. figure:: ./resources/marsCities/marsCities.png
    :align: center
 
-   火星城市及旅游图。基于 `NASA MOLA <http://mola.gsfc.nasa.gov/images.html>`_ 地图制作。在 Google Mars 中导入 `此 KMZ 文件 <./resources/marsCities/marsCities.kmz>`_ ，可以观察火星城市具体位置。
+   火星城市及旅游图。基于 `NASA MOLA <http://mola.gsfc.nasa.gov/images.html>`_ 地图制作。在 Google Mars 中导入 `此 KMZ 文件 <https://github.com/InterImm/InterImmData/raw/master/opendata/MarsCities.kmz>`_ ，可以观察火星城市具体位置。
 
 .. index:: 伊希地城市圈
 .. index:: Isidis Metropolitan Area
@@ -259,6 +259,30 @@ IIA 研发部下属的 PNPT 对推进技术的发展做出了巨大的贡献。�
 
 
 川陀城和端点城之间有着非常密切的合作，不仅仅在资源互惠上，在经济上甚至人口流动上，两个城市一开始就表现的非常友好。2168 年，两个城市决定开放更多的互惠资源，形成希腊城市圈。
+
+
+
+
+火星-地球检疫
+-------------------
+
+早在火星城市建设初期，地球和火星联合建立了地球和火星之通行的检疫系统。这个系统中出去正常的官方检疫工作，还有商业化的审核公司的参与。
+
+由于地球和火星的条件不同，从地球携带到火星的生物都需要经过严格的审查，同时由于火星建设过程中用到很多修改基因的生物，用来辅助火星建设，因此不管是前往火星，还是返回地球，都需要对随身携带的任何生物和生物制品进行审核。这部分审核认证是通过公司来完成的，其中比较著名的是柏林先锋。不过由于专门用于火星开发的基因修改生物全部携带有特定的基因，每个这样的生物体内都会表达一种认为设计的蛋白质，这种蛋白质对于生物没有影响，但是却很容易检测出来。这成为火星和地球生物安全的一项重要技术。
+
+
+.. index:: Berlin Pioneer
+.. index:: 柏林先锋
+
+.. admonition:: 柏林先锋
+   :class: note
+   :name: berlinpioneer
+
+   柏林先锋，Berlin Pioneer，是一家专注与火星地球运输的生物审核的公司。这家公司在总部在柏林，但是在世界各地有多个办公室和研发中心。柏林先锋的创始人 Stefan Cline 在德国慕尼黑大学读书期间，设计了一套判断新物种对于现有生态影响的系统方案。之后火星移民的兴起，Stefan Cline 开始设计火星上生物基因改造的安全性问题。他提议在所有专门为火星设计的基因修改中，添加可以产生特定蛋白的基因，这样方便区分和检测这些火星专有生物。之后他成立了 Cline Genetics，这家公司后来更名 Berlin Pioneer，在之后的火星移民浪潮中，发展成为 22 世纪世界上最大的生物审核公司。同时该公司的很多专利与基因修改相关，这些专利为柏林先锋带来了巨额的收益。
+
+
+
+
 
 
 .. 第一项大型行星工程
