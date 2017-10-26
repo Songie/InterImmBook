@@ -37,7 +37,21 @@ extensions = [
     'sphinx.ext.mathjax',
 ]
 
-mathjax_path = 'https://cdn.bootcss.com/mathjax/2.5.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+mathjax_path = 'https://cdn.bootcss.com/mathjax/2.6.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+
+# prolog included in the beginning of every rst file
+rst_prolog = """
+.. role:: strike
+   :class: strike
+.. role:: highlight-text
+   :class: highlight-text
+.. role:: eventdate
+   :class: event-date
+.. role:: eventbody
+   :class: event-body
+.. |nbsp| unicode:: 0xA0
+   :trim:
+"""
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -53,7 +67,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'星际移民之书'
-copyright = u'2014, Interplanetary Immigration Center'
+copyright = u'2016, 星际移民中心'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
